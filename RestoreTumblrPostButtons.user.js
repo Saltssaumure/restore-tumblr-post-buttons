@@ -7,7 +7,7 @@
 // @grant        GM_addStyle
 // @run-at       document-start
 // @include      https://www.tumblr.com/dashboard*
-// @license      // @license GPL-3.0-or-later; https://www.gnu.org/licenses/gpl-3.0.txt
+// @license      GPL-3.0-or-later; https://www.gnu.org/licenses/gpl-3.0.txt
 // ==/UserScript==
 
 (function() {

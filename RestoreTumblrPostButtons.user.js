@@ -7,7 +7,7 @@
 // @grant        GM_addStyle
 // @run-at       document-start
 // @include      https://www.tumblr.com/dashboard*
-// @license      Creative Commons Zero v1.0 Universal https://github.com/Saltssaumure/restore-tumblr-post-buttons/blob/main/LICENSE
+// @license      // @license GPL-3.0-or-later; https://www.gnu.org/licenses/gpl-3.0.txt
 // ==/UserScript==
 
 (function() {
